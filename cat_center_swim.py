@@ -3,7 +3,7 @@
 
 """
 
-DNAC Discovery Script.
+Catalyst Center Software Image Management Script.
 
 Copyright (c) 2024 Cisco and/or its affiliates.
 
